@@ -18,3 +18,4 @@
 <h3>Демонстрация работы программы</h3>
 
 
+![](https://github.com/ISmirnova19/siaod1/blob/main/doc_2024-02-26_22-07-36%20(1).gif?raw=true)
